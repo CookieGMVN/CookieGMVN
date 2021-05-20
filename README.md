@@ -1,4 +1,4 @@
-# Hi there <img src= "https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/wave.gif" width= 110 height=93>
+# Hi there!
 
 ## So, what is this GitHub Profile?
 
@@ -16,6 +16,7 @@ This is a... nevermind.
 - Native language: Vietnamese
 - I'm a boy
 - A Weeboo or wibu
+- CKBOT CEO
 
 ## Programming Language I coding:
 
@@ -29,6 +30,14 @@ This is a... nevermind.
 - PHP
 - Apache (This is a webserver, not a language)
 - More and more...
+
+## Editor I use to code:
+
+- VSCode
+- VSCommunity
+- Sublime Text 3
+- Vim and Nano
+- Bluefish (That is a editor for my Raspberry Pi)
 
 ## Why I can't see your repos?
 
