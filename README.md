@@ -12,12 +12,12 @@ This is a... nevermind.
 - Code just for fun
 - NodeJS and C++ Coder
 - Not Developer
-- Know around 15 developer language
+- Know around 15 programming language
 - Native language: Vietnamese
 - I'm a boy
 - A Weeboo or wibu
 
-## Developer Language I coding:
+## Programming Language I coding:
 
 - NodeJS (Discord.js)
 - C, C++
