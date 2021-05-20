@@ -53,7 +53,9 @@ Yeah, I set the most repos to private.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CookieGMVN&show_icons=true&theme=cobalt)
 ![Language most](https://github-readme-stats.vercel.app/api/top-langs/?username=CookieGMVN&theme=cobalt&layout=compact)
 
+## My Vietnamese Info
 
+You can find it at https://ckbot.ga/info/?about=CookieGMVN
 <!--
 **CookieGMVN/CookieGMVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
