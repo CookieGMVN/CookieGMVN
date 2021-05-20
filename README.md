@@ -39,6 +39,11 @@ This is a... nevermind.
 - Vim and Nano
 - Bluefish (That is a editor for my Raspberry Pi)
 
+## Environment (OS) I use to code with:
+
+- Linux (Raspberry Pi OS)
+- Windows
+
 ## Why I can't see your repos?
 
 Yeah, I set the most repos to private.
