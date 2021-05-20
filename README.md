@@ -4,6 +4,8 @@
 
 This is a... nevermind.
 
+![Kanna gif](https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/kanna.gif)
+
 ## About me?
 
 - Student
@@ -12,6 +14,8 @@ This is a... nevermind.
 - Not Developer
 - Know around 15 developer language
 - Native language: Vietnamese
+- I'm a boy
+- A Weeboo or wibu
 
 ## Developer Language I coding:
 
