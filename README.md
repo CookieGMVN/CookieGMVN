@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there <img src= "https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/wave.gif" width= 110 height=93>
 
 ## So, what is this GitHub Profile?
 
 This is a... nevermind.
 
-![Kanna gif](https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/kanna.gif)
+<img src= "https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/kanna.gif" width= 110 height=110>
 
 ## About me?
 
