@@ -12,11 +12,9 @@ This is a... nevermind.
 - Code just for fun
 - NodeJS and C++ Coder
 - Not Developer
-- Know around 15 programming language
 - Native language: Vietnamese
 - I'm a boy
 - A Weeboo or wibu
-- CKBOT CEO
 
 ## Programming Language I coding:
 
