@@ -20,26 +20,20 @@ This is a... nevermind.
 
 - NodeJS (Discord.js)
 - C, C++
-- Pascal (Yeah it dead)
 - MySQL
 - Python
-- HTML
-- CSS
 - PHP
-- Apache (This is a webserver, not a language)
-- More and more...
 
 ## Editor I use to code:
 
 - VSCode
-- VSCommunity
+- VSStudio
 - Sublime Text 3
 - Vim and Nano
-- Bluefish (That is a editor for my Raspberry Pi)
 
 ## Environment (OS) I use to code with:
 
-- Linux (Raspberry Pi OS)
+- Linux (Ubuntu)
 - Windows
 
 ## Why I can't see your repos?
