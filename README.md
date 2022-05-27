@@ -1,40 +1,45 @@
-# Hi there! I'm CookieGMVN#9173!
+# 👋 Hi there! I'm CookieGMVN#9173!
 
 ## So, what is this GitHub Profile?
 
-This is a... nevermind.
+Just a GitHub Profile of CookieGMVN, a crazy boy who loved programming.
 
-<img src= "https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/kanna.gif" width= 110 height=110>
+<img src= "https://raw.githubusercontent.com/CookieGMVN/CookieGMVN/main/resources/kanna.gif" width=110 height=110>
 
 ## About me?
 
 - Student
-- Code just for fun
-- NodeJS and C++ Coder
-- Not Developer
-- Native language: Vietnamese
-- I'm a boy
-- A Weeboo or wibu
+- Native language: Vietnamese (But I can use English to communicate with others)
+- He/Him
+- A Weeb
+
+## What I liked?
+- Watch Anime
+- Code, of course
+- Listen some music
+- Chat with friends on Discord
+
+## My waifus
+- Nezuko Kamado (Fun fact: My Discord Bot is based on her. You can learn more about that bot [here](https://nezukobot.vn))
+- Tsukasa Yuzaki (SHE IS VERY CUTEEEEEEEEEEE)
 
 ## Programming Language I coding:
 
-- NodeJS (Discord.js)
-- C, C++
+- NodeJS
+- C++
 - MySQL
 - Python
 - PHP
 
 ## Editor I use to code:
 
-- VSCode
-- VSStudio
-- Sublime Text 3
-- Vim and Nano
+- Visual Studio Code
+- Vim (CLI GANG)
 
 ## Environment (OS) I use to code with:
 
 - Linux (Ubuntu)
-- Windows
+- Windows (Windows 11 & Windows 10)
 
 ## Why I can't see your repos?
 
